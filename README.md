@@ -7,4 +7,4 @@ get fired from the jobs by the hunderds (twitch, google).
 But that knowledge aside this project really makes me feel like I am one: starting to get a handle on this whole Web Design/Development and two: that I might be able to make it in the industry. Just need to find someplace to 
 somewhat ease me into it slowly and then just go from there.
 
-To heck out the site, [click here](https://mrdrekc.github.io/OPP_Dasmotos-Arts-Crafts/)
+To check out the site, [click here](https://mrdrekc.github.io/OPP_Dasmotos-Arts-Crafts/)
